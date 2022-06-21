@@ -152,7 +152,7 @@ progress{
 
 /* --  MEDIA QUERIES  --*/
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 610px) {
 
 body{
     margin-top: 40px;
